@@ -1,35 +1,21 @@
 {
-  "shop_name": "ラ・バンバ 薩摩タコス【La Bamba satsuma tacos】",
-  "shop_bio": "タコス&タコライス&バーガー<br>テイクアウト専門店<br>店休日　【日・月】<br><span class=\"hours-label\">営業時間:</span> <span class=\"hours-times\">11時30分〜14時00分<br>17時00分〜18時30分</span>",
-  "shop_address": "〒899-4332 鹿児島県霧島市国分中央１丁目７−７−２",
-  "shop_address_url": "https://maps.app.goo.gl/XtVJ3CYL8p4XD2XH9",
-  "instagram_url": "https://www.instagram.com/la.bamba.satsuma.tacos/",
-  "line_url": "https://line.me/ti/p/example",
-  "x_url": "https://x.com/example",
-  "facebook_url": "",
-  "youtube_url": "https://youtube.com/@example",
-  "tiktok_url": "",
-  "threads_url": "",
   "sns": [
-    { "label": "Instagram", "url": "https://www.instagram.com/la.bamba.satsuma.tacos/", "icon": "icon_instagram.svg" },
-    { "label": "LINE", "url": "https://line.me/ti/p/example", "icon": "LINE copy.png" },
-    { "label": "X", "url": "https://x.com/example", "icon": "X画像 copy.jpg" },
-    { "label": "YouTube", "url": "https://youtube.com/@example", "icon": "youtube.png" },
-    { "label": "Facebook", "url": "https://facebook.com/example", "icon": "facebook_icon copy.png" },
-    { "label": "TikTok", "url": "https://tiktok.com/@example", "icon": "TikTok.jpg" }
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/aview_kagoshima?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "icon": "icon_instagram.svg"
+    }
   ],
-  "profile_image_url": "images/Hicoさんアイコン.png",
-  "background_image_url": "images/hecoさん背景2.png",
-  "gallery_images": [
-    "images/IMG_2802.jpg",
-    "images/IMG_2804.JPG", 
-    "images/IMG_2805.JPG",
-    "images/IMG_2806.JPG",
-    "images/IMG_2807.JPG",
-    "images/IMG_2809.JPG"
-  ],
-  "page_title": "ラ・バンバ 薩摩タコス",
-  "share_title": "ラ・バンバ 薩摩タコス",
-  "share_text": "美味しいタコスとタコライスが楽しめるテイクアウト専門店です！",
-  "footer_text": "La Bamba satsuma tacos"
+  "shop_name": "aview_kagoshima",
+  "shop_bio": "月~金11:00~19:00 、土日祝10:45~19:00。無休。お問合せはDM・お電話にて<br>（ご対応は<span class=\"hours-label\">営業時間</span><span class=\"hours-times\">内となります）<br>駐車場は近隣のコインパーキングをご利用ください</span>",
+  "shop_address": "892-0846 加治屋町2-21 大宮ビル1F, Kagoshima, Kagoshima",
+  "profile_image_url": "images/aview_kagoshima_profile_image.jpg",
+  "background_image_url": "images/aview_kagoshima_background_image.png",
+  "page_title": "aview_kagoshima",
+  "share_title": "aview_kagoshima",
+  "share_text": "月~金11:00~19:00 、土日祝10:45~19:00。無休。お問合せはDM・お電話にて",
+  "footer_text": "aview_kagoshima",
+  "shop_address_url": "https://www.google.com/maps/search/?api=1&query=892-0846%20%E5%8A%A0%E6%B2%BB%E5%B1%8B%E7%94%BA2-21%20%E5%A4%A7%E5%AE%AE%E3%83%93%E3%83%AB1F%2C%20Kagoshima%2C%20Kagoshima",
+  "apple_app_title": "aview_kagoshima",
+  "apple_touch_icon": "images/aview_kagoshima_profile_image.jpg"
 }
